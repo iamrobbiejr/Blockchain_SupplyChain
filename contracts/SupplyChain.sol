@@ -6,7 +6,7 @@ import './MadicineW_D.sol';
 import './MadicineD_P.sol';
 
 /// @title Blockchain : Pharmaceutical SupplyChain
-/// @author Kamal Kishor Mehra
+/// @author Robby Malunga
 contract SupplyChain {
 
     /// @notice

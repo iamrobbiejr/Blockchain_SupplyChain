@@ -22,7 +22,7 @@ The Pharmaceutical supply chain is the sequence of activities and process to bri
 
 #### Application Workflow Diagram
 ---
-![](https://raw.githubusercontent.com/kamalkishorm/Blockchain_SupplyChain/master/assets/flow/Blockchain_Pharmaceutical_SupplyChain.png)
+![](https://raw.githubusercontent.com/iamrobbiejr/Blockchain_SupplyChain/master/assets/flow/Blockchain_Pharmaceutical_SupplyChain.png)
 
 #### Roles
 ---
@@ -65,7 +65,7 @@ The Pharmaceutical supply chain is the sequence of activities and process to bri
 **Setting up Ethereum Smart Contract:**
 
 ```
-git clone https://github.com/kamalkishorm/Blockchain_SupplyChain.git
+git clone https://github.com/iamrobbiejr/Blockchain_SupplyChain.git
 cd Blockchain_SupplyChain/
 ```
 **Update truffle.js **
@@ -167,7 +167,7 @@ Summary
 **Setting up SupplyChain UI:**
 
 ```
-git clone https://github.com/kamalkishorm/Pharmaceutical_Supplychain-UI.git
+git clone https://github.com/iamrobbiejr/Pharmaceutical_Supplychain-UI.git
 cd Pharmaceutical_Supplychain-UI/
 npm i
 ng serve

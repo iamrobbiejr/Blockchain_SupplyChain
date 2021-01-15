@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Blockchain_SupplyChain.iml" filepath="$PROJECT_DIR$/.idea/Blockchain_SupplyChain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pharmaceutical_Supplychain-UI/.idea/Pharmaceutical_Supplychain-UI.iml" filepath="$PROJECT_DIR$/../Pharmaceutical_Supplychain-UI/.idea/Pharmaceutical_Supplychain-UI.iml" />
     </modules>
   </component>
 </project>
